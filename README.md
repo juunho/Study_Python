@@ -14,7 +14,7 @@
 |------|---|----|---|
 |Jump to Python|Book|Completed|Python 기초 개념 및 실습|
 |Do it! Pandas|Book|Underway|Pandas 라이브러리 실습|
-|초보자를 위한 파이썬 300제|Document|Underway|Python 문제풀이|
+|초보자를 위한 파이썬 300제|Document|Underway|Python 기초 문제풀이|
 
 ## Statistics
 |Title|Category|Status|Summary|
