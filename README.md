@@ -6,7 +6,7 @@
 |파이썬 머신러닝 완벽 가이드|Book & Leacture|Completed|머신러닝 이론 및 실습|
 |파이썬 딥러닝 파이토치|Book|Underway||
 |Deep Learning From Scratch|Book|Underway||
-|Hands-On Maching Learning wtih Sklearn, Keras & TensorFlow|Book|Underway||
+|Hands-On Maching Learning |Book|Underway||
 |Neural Network Projects with Python|Book|Underway||
 
 
