@@ -18,6 +18,7 @@
 |초보자를 위한 파이썬 300제|Document|Underway|Python 기초 문제풀이|
 |처음 시작하는 알고리즘|Lecture|Underway||
 |자료구조와 함께 배우는 알고리즘 입문|Book|||
+|파이썬 - 기본을 갈고 닦자!|Book||
 
 
 ## Statistics
